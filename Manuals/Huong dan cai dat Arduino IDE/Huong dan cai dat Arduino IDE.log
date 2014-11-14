@@ -1,8 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.13)  13 NOV 2014 08:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.13)  14 NOV 2014 05:59
 entering extended mode
-**Huong*dan*cai*dat*Arduino*IDE.tex
+**C:/Users/nnguyen60/Desktop/PAP/Manuals/Huong*dan*cai*dat*Arduino*IDE/Huong*da
+n*cai*dat*Arduino*IDE.tex
 
-("C:\Users\nnguyen60\Desktop\PAP\Manuals\Huong dan cai dat Arduino IDE\Huong da
+("C:/Users/nnguyen60/Desktop/PAP/Manuals/Huong dan cai dat Arduino IDE/Huong da
 n cai dat Arduino IDE.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
@@ -562,18 +563,128 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \sf@top=\skip52
 \sf@bottom=\skip53
 )
-("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\fancyhdr\fancyhdr.sty"
-\fancy@headwidth=\skip54
-\f@ncyO@elh=\skip55
-\f@ncyO@erh=\skip56
-\f@ncyO@olh=\skip57
-\f@ncyO@orh=\skip58
-\f@ncyO@elf=\skip59
-\f@ncyO@erf=\skip60
-\f@ncyO@olf=\skip61
-\f@ncyO@orf=\skip62
+("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("D:\Dolphin\Program Files\MiKTeX Portable\tex\generic\oberdiek\hobsub-hyperref
+.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("D:\Dolphin\Program Files\MiKTeX Portable\tex\generic\oberdiek\hobsub-generic.
+sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\sectsty\sectsty.sty"
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) ("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+) ("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen136
+\Hy@linkcounter=\count103
+\Hy@pagecounter=\count104
+ ("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count105
+
+("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count106
+
+("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen137
+\Fld@menulength=\count107
+\Field@Width=\dimen138
+\Fld@charsize=\dimen139
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count108
+\c@Item=\count109
+\c@Hfootnote=\count110
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count111
+\c@bookmark@seq@number=\count112
+
+("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\oberdiek\rerunfilecheck.st
+y"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip54
+) ("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip55
+\f@ncyO@elh=\skip56
+\f@ncyO@erh=\skip57
+\f@ncyO@olh=\skip58
+\f@ncyO@orh=\skip59
+\f@ncyO@elf=\skip60
+\f@ncyO@erf=\skip61
+\f@ncyO@olf=\skip62
+\f@ncyO@orf=\skip63
+) ("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\sectsty\sectsty.sty"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
@@ -587,60 +698,62 @@ Package tocbibind Note: Using section or other style headings.
 ) ("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\tocloft\tocloft.sty"
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 44.
-\cftparskip=\skip63
-\cftbeforetoctitleskip=\skip64
-\cftaftertoctitleskip=\skip65
-\cftbeforepartskip=\skip66
-\cftpartnumwidth=\skip67
-\cftpartindent=\skip68
-\cftbeforesecskip=\skip69
-\cftsecindent=\skip70
-\cftsecnumwidth=\skip71
-\cftbeforesubsecskip=\skip72
-\cftsubsecindent=\skip73
-\cftsubsecnumwidth=\skip74
-\cftbeforesubsubsecskip=\skip75
-\cftsubsubsecindent=\skip76
-\cftsubsubsecnumwidth=\skip77
-\cftbeforeparaskip=\skip78
-\cftparaindent=\skip79
-\cftparanumwidth=\skip80
-\cftbeforesubparaskip=\skip81
-\cftsubparaindent=\skip82
-\cftsubparanumwidth=\skip83
-\cftbeforeloftitleskip=\skip84
-\cftafterloftitleskip=\skip85
-\cftbeforefigskip=\skip86
-\cftfigindent=\skip87
-\cftfignumwidth=\skip88
-\cftbeforelottitleskip=\skip89
-\cftafterlottitleskip=\skip90
-\cftbeforetabskip=\skip91
-\cfttabindent=\skip92
-\cfttabnumwidth=\skip93
-\cftbeforesubfigskip=\skip94
-\cftsubfigindent=\skip95
-\cftsubfignumwidth=\skip96
-\cftbeforesubtabskip=\skip97
-\cftsubtabindent=\skip98
-\cftsubtabnumwidth=\skip99
+\cftparskip=\skip64
+\cftbeforetoctitleskip=\skip65
+\cftaftertoctitleskip=\skip66
+\cftbeforepartskip=\skip67
+\cftpartnumwidth=\skip68
+\cftpartindent=\skip69
+\cftbeforesecskip=\skip70
+\cftsecindent=\skip71
+\cftsecnumwidth=\skip72
+\cftbeforesubsecskip=\skip73
+\cftsubsecindent=\skip74
+\cftsubsecnumwidth=\skip75
+\cftbeforesubsubsecskip=\skip76
+\cftsubsubsecindent=\skip77
+\cftsubsubsecnumwidth=\skip78
+\cftbeforeparaskip=\skip79
+\cftparaindent=\skip80
+\cftparanumwidth=\skip81
+\cftbeforesubparaskip=\skip82
+\cftsubparaindent=\skip83
+\cftsubparanumwidth=\skip84
+\cftbeforeloftitleskip=\skip85
+\cftafterloftitleskip=\skip86
+\cftbeforefigskip=\skip87
+\cftfigindent=\skip88
+\cftfignumwidth=\skip89
+\cftbeforelottitleskip=\skip90
+\cftafterlottitleskip=\skip91
+\cftbeforetabskip=\skip92
+\cfttabindent=\skip93
+\cfttabnumwidth=\skip94
+\cftbeforesubfigskip=\skip95
+\cftsubfigindent=\skip96
+\cftsubfignumwidth=\skip97
+\cftbeforesubtabskip=\skip98
+\cftsubtabindent=\skip99
+\cftsubtabnumwidth=\skip100
 )
 ("C:\Users\nnguyen60\Desktop\PAP\Manuals\Huong dan cai dat Arduino IDE\Huong da
 n cai dat Arduino IDE.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -678,60 +791,114 @@ LaTeX Font Info:    ... okay on input line 42.
 
 ("D:\Dolphin\Program Files\MiKTeX Portable\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count103
-\scratchdimen=\dimen136
+\scratchcounter=\count113
+\scratchdimen=\dimen140
 \scratchbox=\box26
-\nofMPsegments=\count104
-\nofMParguments=\count105
+\nofMPsegments=\count114
+\nofMParguments=\count115
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count106
-\MPscratchDim=\dimen137
-\MPnumerator=\count107
-\makeMPintoPDFobject=\count108
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen141
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks23
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box27
+Package hyperref Info: Link coloring OFF on input line 43.
+ ("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("D:\Dolphin\Program Files\MiKTeX Portable\tex\generic\oberdiek\gettitlestring.
+sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count119
+)
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+
+("C:\Users\nnguyen60\Desktop\PAP\Manuals\Huong dan cai dat Arduino IDE\Huong da
+n cai dat Arduino IDE.out")
+("C:\Users\nnguyen60\Desktop\PAP\Manuals\Huong dan cai dat Arduino IDE\Huong da
+n cai dat Arduino IDE.out")
+\@outlinefile=\write3
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 43.
+(Font)              <12> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 43.
+(Font)              <8> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 43.
-LaTeX Font Info:    Try loading font information for T5+cmss on input line 45.
- ("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\vntex\t5cmss.fd"
+(Font)              <6> on input line 45.
+LaTeX Font Info:    Try loading font information for T5+cmss on input line 46.
+
+("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\vntex\t5cmss.fd"
 File: t5cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
 
+Package hyperref Warning: Composite letter `\textacute+\ohorn'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 46.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 46.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 46.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 46.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
 ("D:\Dolphin\Program Files\MiKTeX Portable\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
+[1
 
 {D:/Dolphin/Program Files/MiKTeX Portable/pdftex/config/pdftex.map}]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
+
 ("C:\Users\nnguyen60\Desktop\PAP\Manuals\Huong dan cai dat Arduino IDE\Huong da
-n cai dat Arduino IDE.aux") ) 
+n cai dat Arduino IDE.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
+Package rerunfilecheck Info: File `Huong*dan*cai*dat*Arduino*IDE.out' has not c
+hanged.
+(rerunfilecheck)             Checksum: <no file>.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
+ ) 
 Here is how much of TeX's memory you used:
- 4542 strings out of 493921
- 65687 string characters out of 3142071
- 123060 words of memory out of 3000000
- 7780 multiletter control sequences out of 15000+200000
- 16559 words of font info for 35 fonts, out of 3000000 for 9000
+ 8245 strings out of 493921
+ 123389 string characters out of 3142071
+ 207219 words of memory out of 3000000
+ 11434 multiletter control sequences out of 15000+200000
+ 17382 words of font info for 36 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 44i,6n,43p,405b,184s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/Dolphin/Program Files/MiKTeX Portable/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><D:/Dolphin/Program Files/MiKTeX Portable/fon
-ts/type1/vntex/vnr/vnr10.pfb><D:/Dolphin/Program Files/MiKTeX Portable/fonts/ty
-pe1/vntex/vnr/vnr12.pfb><D:/Dolphin/Program Files/MiKTeX Portable/fonts/type1/v
-ntex/vnr/vnr17.pfb><D:/Dolphin/Program Files/MiKTeX Portable/fonts/type1/vntex/
-vnr/vnss12.pfb>
-Output written on "Huong dan cai dat Arduino IDE.pdf" (1 page, 57837 bytes).
+ 44i,6n,43p,482b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Dolphin/Program Files/MiKTeX Portable/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><D:/Dolphin/Program Files/MiKTeX Portable/fonts/type1/vntex/vnr/vnr10.pf
+b><D:/Dolphin/Program Files/MiKTeX Portable/fonts/type1/vntex/vnr/vnr12.pfb><D:
+/Dolphin/Program Files/MiKTeX Portable/fonts/type1/vntex/vnr/vnr17.pfb><D:/Dolp
+hin/Program Files/MiKTeX Portable/fonts/type1/vntex/vnr/vnss12.pfb><D:/Dolphin/
+Program Files/MiKTeX Portable/fonts/type1/vntex/vnr/vnti10.pfb>
+Output written on "Huong dan cai dat Arduino IDE.pdf" (1 page, 69035 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 54 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
